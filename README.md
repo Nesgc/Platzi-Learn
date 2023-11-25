@@ -1,2 +1,2 @@
 # Platzi-Learn
-Platzi Course
+Platzi Course.
